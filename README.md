@@ -17,8 +17,3 @@ To compile this project, you will need LaTeX installed. You can compile the `mai
 
 ## Analysis Summary
 The analysis explores the homelessness rate per 10,000 population, focusing on both sheltered and unsheltered individuals. It also looks at how various factors, such as housing affordability and urban density, impact homelessness rates.
-
-## Requirements
-- LaTeX distribution (e.g., TeX Live, MiKTeX)
-- LaTeX editor (e.g., Overleaf, Texmaker)
-
